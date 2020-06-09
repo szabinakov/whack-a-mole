@@ -3,8 +3,7 @@ Create your own retro whack-a-mole game
 
 ![](WAM.png)
 
-The goal is to hit the little mole as many times as you can by clicking on it
-You get one score for every hit :)
+The goal is to hit the little mole as many times as you can by clicking on it, you get one score for every hit :)
 
 ## Built with
 + Javascript
