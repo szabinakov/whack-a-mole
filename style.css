@@ -1,0 +1,77 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    width: 560px;
+    margin-left: 120px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+h1 {
+    align-self: center;
+}
+.top {
+    display: flex;
+    width: 560px;
+    justify-content: space-evenly;
+}
+.points, .time {
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+    font-size: 10px;
+}
+
+.square {
+    height: 180px;
+    width: 180px;
+    border-style: solid;
+    border-color: black;
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 560px;
+    height: 560px;
+}
+
+.mole {
+    background-image: url('mole.jpg');
+    background-size: cover;
+    width: 180px;
+    height: 180px;
+}
+
+.one {
+    background-color: #0000FF;
+}
+.two{
+    background-color: #FF0000;
+}
+.three{
+    background-color: #00FFFF;
+}
+.four{
+    background-color: #FDF200;
+}
+.five{
+    background-color: #FF1493;
+}
+.six{
+    background-color:#7FFF00;
+}
+.seven{
+    background-color:#8A2BE2;
+}
+.eight{
+    background-color: #ff6e1f;
+}
+.nine{
+    background-color: grey;
+}
